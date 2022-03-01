@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The fo]x chace: or, The huntsman's harmony; by the [...] of Buckingham's hounds, &amp;c. To an excellent tune much in request.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600-1699?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06931</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[176]</idno>
+            <idno type="EEBO-CITATION">99887702</idno>
+            <idno type="PROQUEST">ocm99887702</idno>
+            <idno type="VID">183351</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183351)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[142])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The fo]x chace: or, The huntsman's harmony; by the [...] of Buckingham's hounds, &amp;c. To an excellent tune much in request.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "All in a morning fair ..."</note>
+                  <note>Imperfect: mutilated with loss of title and imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183351:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>OX CHACE OR THE Huntſman's Harmony; BY THE <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>of BUCKINGHAM's Hounds,</hi> &amp;c.</head>
+            <opener>To an Excellent Tune much in Requeſt.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>ALL in a Morning fair,</l>
+               <l>As I rode to take the Air,</l>
+               <l>I heard ſome to holloo moſt clearly:</l>
+               <l>I drew myſelf a near,</l>
+               <l>To liſten who they were,</l>
+               <l>That was going a hunting ſo early.</l>
+               <l>I ſaw they were ſome Gentlemen,</l>
+               <l>Who belong'd to th' Duke of <hi>Buckingham,</hi>
+               </l>
+               <l>They were going to make there a tryal:</l>
+               <l>To run the Hounds o' the <hi>North,</hi>
+               </l>
+               <l>Being of ſuch fame and worth,</l>
+               <l>
+                  <hi>England</hi> has not the like, without all denial.</l>
+               <l>Then in Wreckdale ſcrogs,</l>
+               <l>We threw off our Dogs,</l>
+               <l>In a place where his lying was likely:</l>
+               <l>But the like ne'er was ſeen,</l>
+               <l>Since a Huntſman <hi>I</hi> have been,</l>
+               <l>For no Hounds found a Fox more quickly,</l>
+               <l>There was Dido and Spanker,</l>
+               <l>And Younker was there,</l>
+               <l>And <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, that ne'er looks behind him,</l>
+               <l>There was Roſe and Bonny Laſs,</l>
+               <l>Who were always in the Chace,</l>
+               <l>Theſe were part o'th' Hounds that did find him.</l>
+               <l>Mr. <hi>Tybbals</hi> cries, away,</l>
+               <l>Hark away, hark away,</l>
+               <l>With that our Foot Huntſman did hear him:</l>
+               <l>Tom Moſſman cries G—d-z-—ds,</l>
+               <l>Uncouple all your Hounds,</l>
+               <l>Or elſe we ſhall never come near him.</l>
+               <l>Then Caper and Counteſs,</l>
+               <l>And Comely were thrown off,</l>
+               <l>With famous Thumper and Cryer,</l>
+               <l>And ſeveral Hounds beſide,</l>
+               <l>Whoſe ſtoutneſs there was try'd,</l>
+               <l>And not one in the Pack did tire,</l>
+               <l>Our Hounds came in a pace,</l>
+               <l>And we fell into a Chace,</l>
+               <l>And thus we purſu'd the poor Creature:</l>
+               <l>With our <hi>Engliſh</hi> and <hi>French</hi> Horn,</l>
+               <l>We encourag'd <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hounds that Morn,</l>
+               <l>And our cry it was greater and greater.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>It could not be expreſt,</l>
+               <l>Which Hound run the beſt,</l>
+               <l>For the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> run on a Breaſt all together:</l>
+               <l>They run at ſuch a rate,</l>
+               <l>As you have not heard of late,</l>
+               <l>When they chac'd him i'th' Vallies together.</l>
+               <l>Then to the Moor be twin'd,</l>
+               <l>Being clear again the wind,</l>
+               <l>Thinking he might have croſs'd it over:</l>
+               <l>But our Hounds run ſo hard,</l>
+               <l>They made the Fox afraid,</l>
+               <l>And forc'd him to turn to his cover.</l>
+               <l>Up the Hills he runs along,</l>
+               <l>And his cover was full ſtrong,</l>
+               <l>But <hi>I</hi> think he had no great eaſe on't:</l>
+               <l>For they run with ſuch a cry,</l>
+               <l>That their Ecchoes made him fly,</l>
+               <l>I'll aſſure you our ſport 'twas pleaſant.</l>
+               <l>Then homeward he hies,</l>
+               <l>And in wreckledale he lies,</l>
+               <l>Thinking the wind might ſave him:</l>
+               <l>But our Hounds ran ſo near,</l>
+               <l>That they poſted him with fear,</l>
+               <l>And our Horſemen they did deceive him.</l>
+               <l>For Squire Whitcliff rode amain,</l>
+               <l>And he whipt it o'er the plain:</l>
+               <l>Mr. Watſon his Horſe did not favour?</l>
+               <l>They rode up the higheſt Hills,</l>
+               <l>And down the deepeſt Dales,</l>
+               <l>Expecting his Life for there labour.</l>
+               <l>Mr. Tybbal rode his part,</l>
+               <l>Although his Chace was ſmart,</l>
+               <l>Default they were ſeldom or never:</l>
+               <l>But ever by and by,</l>
+               <l>To the Hounds he would cry,</l>
+               <l>Halloo, halloo, halloo, hark away altogether.</l>
+               <l>
+                  <hi>Tom Moſſman</hi> he rode ſhort,</l>
+               <l>Yet he help'd us in our ſport,</l>
+               <l>For he came in both Curſing and ſwearing:</l>
+               <l>But when 'twas in his power,</l>
+               <l>He cry'd out, that's our ſilly whore,</l>
+               <l>Hark to <hi>Caperman</hi> now <hi>Staughterman's</hi> near him.</l>
+               <l>Then to Skipland wood he goes,</l>
+               <l>Being purſu'd by his foes,</l>
+               <l>The Company after him did follow,</l>
+               <l>An untargage there we had,</l>
+               <l>Which made our Huntſmen full glad,</l>
+               <l>For we gave him many a halloo.</l>
+               <l>The ſport being almoſt gone,</l>
+               <l>And the chace being almoſt run,</l>
+               <l>He thought to have croſs'd the River;</l>
+               <l>But our Hounds being in,</l>
+               <l>They after him did ſwim,</l>
+               <l>And ſo they deſtroy'd him for ever.</l>
+               <l>Then Leppin took a horn,</l>
+               <l>As good as e'er was blown:</l>
+               <l>
+                  <hi>Tom Moſſman</hi> bid him wind his Death then;</l>
+               <l>The Country People all,</l>
+               <l>Came flocking to his fall,</l>
+               <l>This was Honour enough for a French-Man.</l>
+               <l>So-whoo-up we then Proclaim'd,</l>
+               <l>God bleſs the Duke of <hi>Buckingham,</hi>
+               </l>
+               <l>For our Hounds then had gain'd much Glory</l>
+               <l>This being the ſixth Fox,</l>
+               <l>That we kill'd above the Rocks,</l>
+               <l>Anu there is an end of the ſtory.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
